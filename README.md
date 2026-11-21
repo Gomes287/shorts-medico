@@ -33,8 +33,7 @@ A skill **não acessa suas contas**. Voz e vídeo você gera nos próprios sites
 ## O que você precisa
 - Claude Code
 - Node.js 22+, ffmpeg, Python 3.10+ (macOS: `brew install node ffmpeg python`)
-- **ElevenLabs** com a voz do médico clonada (Instant ou Professional Voice Clone)
-- **HeyGen** com o avatar do médico (Digital Twin / Instant Avatar gravado por ele)
+- Conta no **ElevenLabs** (voz) e no **HeyGen** (avatar do médico, gerado com fundo verde)
 - ~2 GB livres (modelo de transcrição em português)
 
 ## Instalar
@@ -54,12 +53,10 @@ Sem o sistema de plugins: baixe o ZIP, copie `skills/shorts-medico` para `~/.cla
 
 Seus dados ficam só no seu computador, em `~/.config/shorts-medico/` (perfil e as suas regras em `notas.md`).
 
-## Dicas para o avatar e a voz
-- **HeyGen:** grave o Digital Twin com boa luz no rosto, enquadramento do peito para cima e olhando para a câmera.
-  Na geração, escolha fundo de cor sólida **verde #00FF00**. Recortar o fundo por IA fica bem pior.
-- **ElevenLabs:** grave de 1 a 3 minutos da sua voz natural, sem ruído. Ao gerar, ouça uma vez: se errar o nome de
-  um remédio ou sigla, avise o Claude que ele ajusta a grafia falada.
-- No HeyGen, envie o **MP3 do ElevenLabs** como áudio, em vez de digitar o texto.
+## O vídeo do avatar: fundo verde (chroma key)
+O vídeo do HeyGen precisa vir com **fundo de cor sólida verde #00FF00**. É ele que permite recortar o médico com
+qualidade e colocá-lo na frente dos gráficos. Sem o verde, o recorte por IA fica ruim e a skill pede o vídeo de novo.
+Configuração: 9:16, 1080p, fundo verde #00FF00, áudio = o MP3 do ElevenLabs, sem legenda, música ou logo.
 
 ## Responsabilidade (CFM)
 A skill confere o roteiro contra as Resoluções CFM 2.336/2023 (publicidade médica) e 2.454/2026 (uso de IA), mas

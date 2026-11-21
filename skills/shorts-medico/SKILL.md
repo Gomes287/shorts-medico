@@ -32,8 +32,6 @@ com data e o porquê. Fica fora da pasta da skill para não se perder quando o p
    - cores: código hex, OU um print do Instagram/logo (`perfil.py paleta <imagem>` sugere primária e acento);
      sem resposta = paleta padrão (petróleo + âmbar);
    - fonte do título: Anton (padrão, condensada), ArchivoBlack, Playfair (elegante) ou Inter;
-   - confirme que ela já tem, nas contas dela, a voz clonada no ElevenLabs e o avatar (Digital Twin) no HeyGen — feitos
-     com gravações dela mesma. Se não tiver, ela cria nos sites antes do primeiro vídeo.
 3. Grave: `perfil.py definir '{"tratamento":"Dra.","nome":"…","crm":"…","uf":"SP","especialidades":[{"nome":"…","rqe":"…"}],"arroba":"@…","cores":{"primaria":"#…","acento":"#…"},"fonte_titulo":"Anton"}'`.
 4. **Mostre a prévia** antes de seguir: `$PY -I $SK/tools/capa.py --previa ./previa_capa.png` e abra a imagem para a
    pessoa ("é assim que toda capa vai ficar; quer mudar cor ou fonte?"). Mudar depois é só pedir: `perfil.py definir`.
