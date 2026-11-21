@@ -1,0 +1,18 @@
+{
+ "cenas": [
+  {"tipo": "rosto"},
+  {"tipo": "rosto", "em": "Toda", "plano": "xclose", "corte": true},
+  {"tipo": "texto", "em": "Qual", "texto": "QUAL SISTEMA COMPRAR?"},
+  {"tipo": "rosto", "em": "Mas", "plano": "close"},
+  {"tipo": "mito", "em": "Quando", "texto": "“Comprar o sistema resolve o processo.”", "veredito": "mito", "veredito_em": "Antes"},
+  {"tipo": "rosto", "em": "E", "plano": "medio"},
+  {"tipo": "texto", "em": "Responder", "texto": "CORRETA E INÚTIL"},
+  {"tipo": "rosto", "em": "O", "plano": "close"},
+  {"tipo": "rosto", "em": "Na", "plano": "xclose", "corte": true},
+  {"tipo": "rosto", "em": "Por", "plano": "close"},
+  {"tipo": "lista", "em": "Que", "n": 1, "total": 3, "texto": "Que decisão está em jogo?"},
+  {"tipo": "lista", "em": "Que", "n": 2, "total": 3, "texto": "Que premissa estamos aceitando?"},
+  {"tipo": "lista", "em": "E", "n": 3, "total": 3, "texto": "O que ficou de fora?"},
+  {"tipo": "cta", "em": "Comenta", "palavra_em": "situação", "fundo": "primaria"}
+ ]
+}

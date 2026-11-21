@@ -1,0 +1,10 @@
+{
+  "name": "shorts-medico",
+  "version": "1.0.0",
+  "description": "Shorts/Reels de médico em português, prontos para publicar: avatar HeyGen + voz ElevenLabs do próprio médico, gráficos com fonte, legenda, capa no 1º quadro, CTA e checagem CFM.",
+  "author": { "name": "Pedro Gomes" },
+  "homepage": "https://github.com/Gomes287/shorts-medico",
+  "repository": "https://github.com/Gomes287/shorts-medico",
+  "license": "MIT",
+  "keywords": ["shorts", "reels", "medicina", "saude", "cfm", "heygen", "elevenlabs", "video"]
+}

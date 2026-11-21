@@ -1,0 +1,14 @@
+{
+  "name": "shorts-medico",
+  "owner": {
+    "name": "Pedro Gomes"
+  },
+  "description": "Shorts/Reels de médico em português, prontos para publicar.",
+  "plugins": [
+    {
+      "name": "shorts-medico",
+      "source": "./",
+      "description": "Shorts/Reels de médico em português, prontos para publicar (HeyGen + ElevenLabs + checagem CFM)."
+    }
+  ]
+}

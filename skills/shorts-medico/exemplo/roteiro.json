@@ -1,0 +1,85 @@
+{
+ "_leia": "EXEMPLO real (o Short de demonstração do README). Coluna 1 = o que aparece na tela; coluna 2 (opcional) = o que é falado, com número por extenso; '_' junta palavras faladas que viram uma na tela. *palavra* = destaque na legenda · ^palavra = punch-in. Todo número precisa de item em 'dados' com fonte e link.",
+ "tema": "Advisory em saúde: o perigo da pergunta errada",
+ "formato": "o erro que eu mais vejo + lista de 3 perguntas no fim",
+ "titulo_capa": [
+  "A PERGUNTA ERRADA",
+  "CUSTA MAIS CARO"
+ ],
+ "linhas": [
+  [
+   "A pergunta errada custa mais caro."
+  ],
+  [
+   "Toda empresa de saúde chega com uma pergunta pronta."
+  ],
+  [
+   "Qual sistema comprar? Onde cortar custo? Como crescer?"
+  ],
+  [
+   "Mas nenhuma pergunta é ^neutra."
+  ],
+  [
+   "Quando alguém pergunta qual sistema comprar, a tecnologia já virou a solução."
+  ],
+  [
+   "Antes de saber se o processo está claro, ou se alguém responde por ele."
+  ],
+  [
+   "E aí vem o *detalhe* que quase ninguém percebe."
+  ],
+  [
+   "Responder bem a uma pergunta mal feita gera uma recomendação *correta* e *inútil*."
+  ],
+  [
+   "O problema continua no mesmo lugar, agora com cara de decisão racional."
+  ],
+  [
+   "Na saúde, isso pesa mais: cortar custo pode virar ^retrabalho na assistência."
+  ],
+  [
+   "Por isso, antes de recomendar, eu faço três perguntas."
+  ],
+  [
+   "Que decisão está em jogo? Que premissa estamos aceitando? E o que ficou de fora?"
+  ],
+  [
+   "Comenta aqui em que situação você já viu isso acontecer. Porque, no fim,"
+  ]
+ ],
+ "cta_em": "Comenta",
+ "post": {
+  "titulo": "A pergunta ERRADA custa mais caro na saúde",
+  "descricao": "Advisory em saúde começa antes da resposta: qual decisão está realmente em jogo? Por que responder bem a uma pergunta mal feita gera recomendações corretas e inúteis — e as 3 perguntas para fazer antes de comprar um sistema, cortar custos ou expandir a operação.",
+  "hashtags": [
+   "#gestaoemsaude",
+   "#advisory",
+   "#lideranca",
+   "#saude"
+  ],
+  "comentario_fixado": "Conta aqui 👇 qual foi a pergunta errada que você já viu virar projeto (sem citar nomes).",
+  "cta_legenda": "Em que situação você já viu uma pergunta errada virar projeto? Conta aqui nos comentários 👇",
+  "aviso_educativo": false
+ },
+ "dados": [],
+ "cfm": {
+  "verificado": true,
+  "notas": [
+   "Tema de gestão em saúde, sem orientação clínica, diagnóstico ou tratamento.",
+   "Sem números ou estatísticas: nada a comprovar com fonte.",
+   "Sem promessa ou insinuação de resultado; o vídeo descreve um método, não garante desfecho.",
+   "Sem autopromoção ou superlativos ('eu faço três perguntas' descreve o método, não diz que é o melhor).",
+   "Sem medo ou sensacionalismo: 'custa mais caro' é uma tese, não alarme de saúde.",
+   "Sem nome de produto, sistema, fornecedor ou empresa.",
+   "Sem caso que identifique cliente ou paciente.",
+   "CTA pede o relato de uma experiência profissional, sem oferecer consulta ou serviço."
+  ]
+ },
+ "compartilhar": "Para o sócio, diretor ou gestor que está prestes a comprar um sistema ou cortar custo sem discutir o problema.",
+ "so_dele": "As três perguntas que ele faz antes de recomendar (linha 11) — o método dele, vindo do artigo dele.",
+ "cta": {
+  "modo": "experiencia",
+  "pergunta": "EM QUE SITUAÇÃO VOCÊ JÁ VIU ISSO?",
+  "exemplo": "Vi um hospital comprar um sistema antes de…"
+ }
+}
